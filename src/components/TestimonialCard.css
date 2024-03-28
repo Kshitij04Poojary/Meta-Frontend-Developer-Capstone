@@ -1,0 +1,34 @@
+.test-container{
+    background-color:#495e57;
+    padding:10px;
+}
+.testimonial-header{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    color: white;
+}
+
+.test-cards{
+    display:flex;
+    gap:1rem 1rem;
+    padding:20px 13%;
+}
+.testimonial-heading{
+    display:flex;
+    align-items: center;
+    gap:1em;
+   
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.testimonial-items{
+    width:400px;
+    height:200px;
+    background-color: white;
+    padding:10px;
+    border-radius:18px;
+}
+.testimonial-heading img{
+    border-radius: 20px;
+}
